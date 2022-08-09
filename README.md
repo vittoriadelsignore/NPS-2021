@@ -16,4 +16,10 @@ son aquellos que responden 7 u 8. Están satisfechos con el servicio, pero no lo
 ### Detractores: 
 son aquellos que responden de 0 a 6. Son clientes insatisfechos que es poco probable que vuelvan a comprar e, incluso, podrían desalentar a otros de hacerlo.
 
-### NPS: % Promotores - % Detractores
+## NPS: % Promotores - % Detractores
+
+## Análisis
+
+Lo primero que analizamos es si la base de datos tiene datos atípicos (outliers).  En este caso había un dato, el cual se eliminó del dataset utilizado, ya que el puntaje que puede otorgar un clientes es del 0 al 10, cualquier valor mayor a 10 queda descartado. En este caso se pudo deber a un problema de tipeo en la encuesta:
+
+![Gráfico de llamada según el tipo de contacto](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Outliers%20Rta4.png) 
