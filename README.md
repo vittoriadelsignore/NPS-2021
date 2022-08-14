@@ -23,3 +23,9 @@ son aquellos que responden de 0 a 6. Son clientes insatisfechos que es poco prob
 Lo primero que analizamos es si la base de datos tiene datos atípicos (outliers).  En este caso había un dato, el cual se eliminó del dataset utilizado, ya que el puntaje que puede otorgar un clientes es del 0 al 10, cualquier valor mayor a 10 queda descartado. En este caso se pudo deber a un problema de tipeo en la encuesta:
 
 ![Gráfico de llamada según el tipo de contacto](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Outliers%20Rta4.png) 
+
+Luego se evaluó como fue la evolución del puntaje promedio obtenido en cada mes del año evaluado, en donde se puede apreciar que varia pero siempre en un rango comprendido entre 7 y 7.5, es decir, basándandonos en este puntaje el promedio de los clientes son neutros:
+
+![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Puntaje%20NPS%20mensual.png)
+
+Por lo tanto, se deben tomar acciones que lleven a los clientes a tener una mejor experiencia tanto al momento de la compra, como durante el uso y especialmente cuando tienen un siniestro. Esto llevará a puntuaciones entre 9 y 10, y que el promedio de clientes sean promotores.
