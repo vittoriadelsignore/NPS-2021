@@ -29,3 +29,7 @@ Luego se evaluó como fue la evolución del puntaje promedio obtenido en cada me
 ![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Puntaje%20NPS%20mensual.png)
 
 Por lo tanto, se deben tomar acciones que lleven a los clientes a tener una mejor experiencia tanto al momento de la compra, como durante el uso y especialmente cuando tienen un siniestro. Esto llevará a puntuaciones entre 9 y 10, y que el promedio de clientes sean promotores.
+
+A continuación veremos un histograma con el puntaje obtenido a lo largo del año, en donde el mayor puntaje se encuentra en 9 y 10, pero hay otros dos valores importantes que son 0 y 5, los cuales son los que afectan el promedio obtenido, bajandolo a 7 puntos (aproximadamente):
+
+![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Histograma%20NPS.png)
