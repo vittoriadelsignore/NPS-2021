@@ -33,3 +33,7 @@ Por lo tanto, se deben tomar acciones que lleven a los clientes a tener una mejo
 A continuación veremos un histograma con el puntaje obtenido a lo largo del año, en donde el mayor puntaje se encuentra en 9 y 10, pero hay otros dos valores importantes que son 0 y 5, los cuales son los que afectan el promedio obtenido, bajandolo a 7 puntos (aproximadamente):
 
 ![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Histograma%20NPS.png)
+
+Y así se ve el gráfico con el porcentaje de cada puntaje a lo largo del año, que concentra el 39.4% de la muesta en puntaje 10, y 51.5% de la muestra con el puntaje que agrupa a los promotores (9 y 10):
+
+![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Calificaci%C3%B3n.png)
