@@ -37,3 +37,10 @@ A continuación veremos un histograma con el puntaje obtenido a lo largo del añ
 Y así se ve el gráfico con el porcentaje de cada puntaje a lo largo del año, que concentra el 39.4% de la muesta en puntaje 10, y 51.5% de la muestra con el puntaje que agrupa a los promotores (9 y 10):
 
 ![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Calificaci%C3%B3n.png)
+
+Agrupando los valores y calculando el peso de cada grupo (promotores, neutros y detractores), vemos que hay 51,5% son promotores y 29,3% son detractores:
+
+![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Promotores%20Detractores%20y%20Neutros.png)
+
+Esto da un NPS de 22,2 (51,5 - 29,3).
+## NPS: 22,2.
