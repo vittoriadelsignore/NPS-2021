@@ -44,3 +44,10 @@ Agrupando los valores y calculando el peso de cada grupo (promotores, neutros y 
 
 Esto da un NPS de 22,2 (51,5 - 29,3).
 ## NPS: 22,2.
+
+En el estudio se pudo observar que hay clientes que respondieron la encuesta varias veces, y eso es porque llamaron, empezaron la encuesta, no la terminaron y volvieron a llamar.  Se debe tener en consideración estos casos, ya que pueden afectar el resultado final.
+
+Se hizo un clustering para separar a los diferentes tipos de clientes:
+
+![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Clustering%20NPS.png)
+
