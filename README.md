@@ -51,6 +51,6 @@ Se hizo un clustering para separar a los diferentes tipos de clientes:
 
 ![Gráfico Clustering](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Clustering%20NPS.png)
 
-Por último se hizo la curva del codo: 
+Por último se hizo la curva del codo, para determinar el número de clusters, que en este caso es de 5, tal como se hizo en el gráfico anterior:
 
 ![Gráfico Elbow Curve](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Elbow%20Curve%20-%20Clustering.png)
