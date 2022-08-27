@@ -32,15 +32,15 @@ Por lo tanto, se deben tomar acciones que lleven a los clientes a tener una mejo
 
 A continuación veremos un histograma con el puntaje obtenido a lo largo del año, en donde el mayor puntaje se encuentra en 9 y 10, pero hay otros dos valores importantes que son 0 y 5, los cuales son los que afectan el promedio obtenido, bajandolo a 7 puntos (aproximadamente):
 
-![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Histograma%20NPS.png)
+![Gráfico histograma](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Histograma%20NPS.png)
 
 Y así se ve el gráfico con el porcentaje de cada puntaje a lo largo del año, que concentra el 39.4% de la muesta en puntaje 10, y 51.5% de la muestra con el puntaje que agrupa a los promotores (9 y 10):
 
-![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Calificaci%C3%B3n.png)
+![Gráfico promotores neutros detractores](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Calificaci%C3%B3n.png)
 
 Agrupando los valores y calculando el peso de cada grupo (promotores, neutros y detractores), vemos que hay 51,5% son promotores y 29,3% son detractores:
 
-![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Promotores%20Detractores%20y%20Neutros.png)
+![Gráfico Porcentajes](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Promotores%20Detractores%20y%20Neutros.png)
 
 Esto da un NPS de 22,2 (51,5 - 29,3).
 ## NPS: 22,2.
@@ -49,5 +49,8 @@ En el estudio se pudo observar que hay clientes que respondieron la encuesta var
 
 Se hizo un clustering para separar a los diferentes tipos de clientes:
 
-![Gráfico de puntaje mensual](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Clustering%20NPS.png)
+![Gráfico Clustering](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Clustering%20NPS.png)
 
+Por último se hizo la curva del codo: 
+
+![Gráfico Elbow Curve](https://github.com/vittoriadelsignore/NPS-2021/blob/master/Elbow%20Curve%20-%20Clustering.png)
